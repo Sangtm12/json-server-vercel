@@ -230,7 +230,7 @@
     "posts": 1,
     "createdAt": "Jan 23, 2020",
     "interactions": {
-      "post": {},
+      "post": [],
       "comments": []
     },
     "comments": []
