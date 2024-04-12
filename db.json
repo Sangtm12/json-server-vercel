@@ -237,8 +237,9 @@
   },
   "users": [
     {
-      "email": "test@test.com",
-      "password": "123123123"
+      "email": "sangtm@thisisjustatricktobypasstherequiredemailinputfromjsonserver.com",
+      "password": "$2a$10$mzelUIgUNJjeD40yHo6/ceA4LOIin//b.MAqs.t65ERR4rBQRVvJm",
+      "id": 1
     }
   ]
 }
