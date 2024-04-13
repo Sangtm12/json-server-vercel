@@ -223,23 +223,10 @@
       ]
     }
   ],
-  "loggedInUser": {
-    "id": "sangtm",
-    "name": "sangtm",
-    "photo": "/users/sangtm.png",
-    "posts": 1,
-    "createdAt": "Jan 23, 2020",
-    "interactions": {
-      "posts": [],
-      "comments": []
-    },
-    "comments": []
-  },
   "users": [
     {
-      "email": "sangtm@json-server.com",
-      "password": "$2a$10$mzelUIgUNJjeD40yHo6/ceA4LOIin//b.MAqs.t65ERR4rBQRVvJm",
-      "id": 1,
+      "password": "qweqweqwe",
+      "id": "sangtm",
       "name": "sangtm",
       "photo": "/users/sangtm.png",
       "posts": 1,
@@ -251,8 +238,7 @@
       "comments": []
     },
     {
-      "email": "test@json-server.com",
-      "password": "$2a$10$sUaEs2WQE.WYwX7tKRMr1ewAI0FaL8UOiqbfjjBB2Itr6lHcrrjJu",
+      "password": "qweqweqwe",
       "name": "test",
       "photo": "/users/sangtm.png",
       "posts": 0,
@@ -262,7 +248,7 @@
         "comments": []
       },
       "comments": [],
-      "id": 2
+      "id": "test"
     }
   ]
 }
