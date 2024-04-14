@@ -7,10 +7,11 @@
         "photo": "/communities/3amjokes.png"
       },
       "user": "DiscoDvck",
-      "date": "15 days ago",
+      "date": "Sun, 14 Apr 2024 07:02:29 GMT",
       "title": "What do you call a country where everyone loves to sleep?",
       "text": "a hiber-nation",
-      "upvotes": "546",
+      "upvotes": ["user1", "user2", "user3", "user4", "user5"],
+      "downvotes": ["user6"],
       "comments": [
         {
           "id": "4567",
@@ -20,7 +21,8 @@
           },
           "date": "15 days ago",
           "text": "New Zzz-land",
-          "upvotes": "102",
+          "upvotes": ["user1", "user2", "user3", "user4", "user5"],
+          "downvotes": ["user6"],
           "replies": [
             {
               "id": "8922",
@@ -30,7 +32,8 @@
               },
               "date": "15 days ago",
               "text": "So that's why I'm always tired.",
-              "upvotes": "40"
+              "upvotes": ["user1", "user2", "user3", "user4", "user5"],
+              "downvotes": ["user6"]
             },
             {
               "id": "8923",
@@ -40,7 +43,8 @@
               },
               "date": "15 days ago",
               "text": "Snoreway",
-              "upvotes": "40"
+              "upvotes": ["user1", "user2", "user3", "user4", "user5"],
+              "downvotes": ["user6"]
             }
           ]
         },
@@ -50,9 +54,10 @@
             "name": "obi_jay-sus",
             "photo": "/users/obi_jay-sus.webp"
           },
-          "date": "15 days ago",
+          "date": "Sat, 13 Apr 2024 07:02:29 GMT",
           "text": "New Zzz-land",
-          "upvotes": "102",
+          "upvotes": ["user1", "user2", "user3", "user4", "user5"],
+          "downvotes": ["user6"],
           "replies": [
             {
               "id": "8922",
@@ -62,7 +67,8 @@
               },
               "date": "15 days ago",
               "text": "So that's why I'm always tired.",
-              "upvotes": "40"
+              "upvotes": ["user1", "user2", "user3", "user4", "user5"],
+              "downvotes": ["user6"]
             },
             {
               "id": "8923",
@@ -72,7 +78,8 @@
               },
               "date": "15 days ago",
               "text": "Snoreway",
-              "upvotes": "40"
+              "upvotes": ["user1", "user2", "user3", "user4", "user5"],
+              "downvotes": ["user6"]
             }
           ]
         }
@@ -85,10 +92,11 @@
         "photo": "/communities/explainlikeimfive.png"
       },
       "user": "DiscoDvck",
-      "date": "13 hr. ago",
+      "date": "Sun, 14 Apr 2024 05:02:29 GMT",
       "title": "Why do TVs not require graphics cards the same way that computers do?",
       "text": "Let's use Balders Gate as an example... the majority of the really “graphic” intensive parts of the game are the cut scenes and not the actual game. So why would it need a substantial GPU? Isn't it just playing back a prerecorded video much like a TV would? Or am I thinking of this wrong?",
-      "upvotes": "647",
+      "upvotes": ["user1", "user2", "user3", "user4", "user5"],
+      "downvotes": ["user6"],
       "comments": [
         {
           "id": "1659",
@@ -98,7 +106,8 @@
           },
           "date": "11 hr. ago",
           "text": "Software like a video game tells the GPU \"hey, draw this picture for me\" which let's the GPU draw (render) whatever the image is.\nFor a TV, the software (or hardware) takes a picture that has already been drawn and says \"hey, hold this picture up for me\", and the TV displays the image.\nDrawing the picture takes a lot longer than holding up to display.",
-          "upvotes": "52",
+          "upvotes": ["user1", "user2", "user3", "user4", "user5"],
+          "downvotes": ["user6"],
           "replies": [
             {
               "id": "5345",
@@ -108,7 +117,8 @@
               },
               "date": "10 hr. ago",
               "text": "this is the best ELI5",
-              "upvotes": "30"
+              "upvotes": ["user1", "user2", "user3", "user4", "user5"],
+              "downvotes": ["user6"]
             }
           ]
         }
@@ -121,10 +131,11 @@
         "photo": "/communities/explainlikeimfive.png"
       },
       "user": "DiscoDvck",
-      "date": "13 hr. ago",
+      "date": "Sun, 14 Mar 2024 07:02:29 GMT",
       "title": "Why do TVs not require graphics cards the same way that computers do?",
       "text": "Let's use Balders Gate as an example... the majority of the really “graphic” intensive parts of the game are the cut scenes and not the actual game. So why would it need a substantial GPU? Isn't it just playing back a prerecorded video much like a TV would? Or am I thinking of this wrong?",
-      "upvotes": "647",
+      "upvotes": ["user1", "user2", "user3", "user4", "user5"],
+      "downvotes": ["user6"],
       "comments": [
         {
           "id": "1659",
@@ -134,7 +145,8 @@
           },
           "date": "11 hr. ago",
           "text": "Software like a video game tells the GPU \"hey, draw this picture for me\" which let's the GPU draw (render) whatever the image is.\nFor a TV, the software (or hardware) takes a picture that has already been drawn and says \"hey, hold this picture up for me\", and the TV displays the image.\nDrawing the picture takes a lot longer than holding up to display.",
-          "upvotes": "52",
+          "upvotes": ["user1", "user2", "user3", "user4", "user5"],
+          "downvotes": ["user6"],
           "replies": [
             {
               "id": "5345",
@@ -144,7 +156,8 @@
               },
               "date": "10 hr. ago",
               "text": "this is the best ELI5",
-              "upvotes": "30"
+              "upvotes": ["user1", "user2", "user3", "user4", "user5"],
+              "downvotes": ["user6"]
             }
           ]
         }
@@ -157,10 +170,11 @@
         "photo": "/communities/explainlikeimfive.png"
       },
       "user": "DiscoDvck",
-      "date": "13 hr. ago",
+      "date": "Sun, 14 Apr 2024 07:02:29 GMT",
       "title": "Why do TVs not require graphics cards the same way that computers do?",
       "text": "Let's use Balders Gate as an example... the majority of the really “graphic” intensive parts of the game are the cut scenes and not the actual game. So why would it need a substantial GPU? Isn't it just playing back a prerecorded video much like a TV would? Or am I thinking of this wrong?",
-      "upvotes": "647",
+      "upvotes": ["user1", "user2", "user3", "user4", "user5"],
+      "downvotes": ["user6"],
       "comments": [
         {
           "id": "1659",
@@ -170,7 +184,8 @@
           },
           "date": "11 hr. ago",
           "text": "Software like a video game tells the GPU \"hey, draw this picture for me\" which let's the GPU draw (render) whatever the image is.\nFor a TV, the software (or hardware) takes a picture that has already been drawn and says \"hey, hold this picture up for me\", and the TV displays the image.\nDrawing the picture takes a lot longer than holding up to display.",
-          "upvotes": "52",
+          "upvotes": ["user1", "user2", "user3", "user4", "user5"],
+          "downvotes": ["user6"],
           "replies": [
             {
               "id": "5345",
@@ -180,7 +195,8 @@
               },
               "date": "10 hr. ago",
               "text": "this is the best ELI5",
-              "upvotes": "30"
+              "upvotes": ["user1", "user2", "user3", "user4", "user5"],
+              "downvotes": ["user6"]
             }
           ]
         }
@@ -193,10 +209,11 @@
         "photo": "/communities/explainlikeimfive.png"
       },
       "user": "DiscoDvck",
-      "date": "13 hr. ago",
+      "date": "'Sat, 13 Apr 2024 07:02:29 GMT'",
       "title": "Why do TVs not require graphics cards the same way that computers do?",
       "text": "Let's use Balders Gate as an example... the majority of the really “graphic” intensive parts of the game are the cut scenes and not the actual game. So why would it need a substantial GPU? Isn't it just playing back a prerecorded video much like a TV would? Or am I thinking of this wrong?",
-      "upvotes": "647",
+      "upvotes": ["user1", "user2", "user3", "user4", "user5"],
+      "downvotes": ["user6"],
       "comments": [
         {
           "id": "1660",
@@ -206,7 +223,8 @@
           },
           "date": "11 hr. ago",
           "text": "Software like a video game tells the GPU \"hey, draw this picture for me\" which let's the GPU draw (render) whatever the image is.\nFor a TV, the software (or hardware) takes a picture that has already been drawn and says \"hey, hold this picture up for me\", and the TV displays the image.\nDrawing the picture takes a lot longer than holding up to display.",
-          "upvotes": "52",
+          "upvotes": ["user1", "user2", "user3", "user4", "user5"],
+          "downvotes": ["user6"],
           "replies": [
             {
               "id": "5346",
@@ -216,7 +234,8 @@
               },
               "date": "10 hr. ago",
               "text": "this is the best ELI5",
-              "upvotes": "30"
+              "upvotes": ["user1", "user2", "user3", "user4", "user5"],
+              "downvotes": ["user6"]
             }
           ]
         }
@@ -232,7 +251,16 @@
       "posts": 1,
       "createdAt": "Jan 23, 2020",
       "interactions": {
-        "posts": [],
+        "posts": [
+          {
+            "id": "124",
+            "interaction": "upvote"
+          },
+          {
+            "id": "125",
+            "interaction": "downvote"
+          }
+        ],
         "comments": []
       },
       "comments": []
@@ -249,58 +277,6 @@
       },
       "comments": [],
       "id": "test"
-    }
-  ],
-  "communities": [
-    {
-      "name": "3amjokes",
-      "photo": "/communities/3amjokes.png",
-      "description": "/r/3amjokes - for all the stupid humor of sleep deprivation. Have you been up for longer than a normal human being can operate? Good. Have you just laughed at a joke that wouldn't be funny otherwise?\nSubmit your insomniac dad jokes today.",
-      "member": "2.3M",
-      "online": 71,
-      "rules": [
-        {
-          "title": "Be Civil",
-          "description": "Remember the human behind the keyboard and try to treat others as you would prefer to be treated."
-        },
-        {
-          "title": "Post Only Jokes",
-          "description": "Your post must be a joke in some way, shape, or form. It does not necessarily have to make sense but there must be a punchline of some sort."
-        },
-        {
-          "title": "No spam",
-          "description": "Pretty straightforward, don't spam. If your post gets caught in the spam filter please message the mods and it will be fixed."
-        },
-        {
-          "title": "No promoting targeted hate",
-          "description": "racism, misogyny, bigotry will not be tolerated to any extent. users that incite violence or that promote hate based on identity or vulnerability will be banned."
-        }
-      ]
-    },
-    {
-      "name": "explainlikeimfive",
-      "photo": "/communities/explainlikeimfive.png",
-      "description": "Explain Like I'm Five is the best forum and archive on the internet for layperson-friendly explanations. Don't Panic!",
-      "member": "23M",
-      "online": "2.7K",
-      "rules": [
-        {
-          "title": "Be Civil",
-          "description": "Stay respectful, polite, and friendly. ELI5 is a for requesting help understanding complex concepts and sharing explanations without fear of judgement. Don't insult people or their good intentions in a post, comment, or otherwise, even if a person seems rude or ill-informed. Remember the positive spirit of ELI5.\nThis includes plagiarism - acknowledge your sources!\nUse of bigoted slurs, directed at other users or not, is uncivil."
-        },
-        {
-          "title": "All submissions must seek objective explanations",
-          "description": "ELI5 is not meant for any question that you may have. It is meant for simplifying complex concepts."
-        },
-        {
-          "title": "Top-level comments must be written explanations",
-          "description": "Replies to OP must be written explanations or relevant follow-up questions. They may not be jokes, anecdotes, etc. Short/succinct answers are not explanations, even if factually correct.\nLinks to outside sources are allowed and encouraged, but must include an original explanation (not just quoted text) or summary. Links to relevant previous ELI5 posts or highly relevant other subreddits may be excepted.\nNo plagiarism. All quoted text must be cited. No Bots/GPT\nThis list is not comprehensive"
-        },
-        {
-          "title": "Explain for laypeople (but not actual 5-year-olds)",
-          "description": "Unless OP states otherwise, assume no knowledge beyond a typical secondary education program. Avoid unexplained technical terms. Don't condescend; \"like I'm five\" is a figure of speech meaning \"keep it clear and simple.\""
-        }
-      ]
     }
   ]
 }
